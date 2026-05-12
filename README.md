@@ -1,4 +1,4 @@
-# Practicum manuals created by Freek van den Berg:
+# Practicum manuals created by Freek van den Berg
 
 ### Presentation for the Bachelor information days at Radboud University
 [bachelorvoorlichting.pdf](bachelorvoorlichting.pdf) and [bachelorvoorlichting nov 2011.pdf](bachelorvoorlichting%20nov%202011.pdf) 
