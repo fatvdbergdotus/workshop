@@ -17,6 +17,11 @@
 - [Valuetools 2015 paper](presentation/valuetools_2015_berlin.pdf)
 
 ## Posters
+- [Centre for Telematics and Information Technology 2014 poster](poster/ctit_utwente_2014.pdf)
+- [Early_performance_prediction](poster/Early_performance_prediction_TNO-ESI_Style_poster_both.pdf)
+- [ICT open 2018 poster](poster/ictopen2018_poster_freekvdb.pdf)
+- [DESTECS 2012 summer school poster](poster/poster_destects_summer_school_2012.pdf)
+- [System of Systems Engineering 2018 poster](poster/sose2018poster.pdf)
 
 ## Articles
 
