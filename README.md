@@ -24,4 +24,4 @@
 - [System of Systems Engineering 2018 poster](poster/sose2018poster.pdf)
 
 ## Articles
-
+- [Artikel NEMO kennis link over Freek van den Berg](article/Artikel_Kennislink_FreekvandenBerg.pdf)
