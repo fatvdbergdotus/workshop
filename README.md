@@ -1,4 +1,4 @@
-# Practicum manuals created by Freek van den Berg
+# Workshops, presentations, posters and articles by Freek van den Berg
 
 ## Workshops
 - [Manual for the excellent VWO course Modelling of Business Processes at RU Nijmegen](workshop/Handleiding_vwo.pdf) 
