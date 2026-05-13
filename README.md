@@ -1,3 +1,5 @@
+(c) 2026 Freek van den Berg. All rights reserved.
+
 # Workshops, presentations, posters and articles by Freek van den Berg
 
 ## Workshops
